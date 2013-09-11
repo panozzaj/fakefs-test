@@ -1,0 +1,3 @@
+To test https://github.com/defunkt/fakefs/issues/192, which appears to be working.
+
+Just `bundle` and run `rspec`.
